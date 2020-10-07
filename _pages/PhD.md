@@ -32,8 +32,19 @@ We combine the electron backscatter patterns (EBSPs) and energy-dispersive X-ray
 ​
 The columns of the data matrix are then weighted according to whether we desire a structural (high EBSP variance) or chemical (EDS) driven analysis. [Read more...](https://arxiv.org/abs/1908.04084).
 
+<p align="center">
+<img src="/files/Fig1_Matrix_construction.png"  width="550">
+</p>
+
+<p align="center">
+<img src="/files/GraphicalAbstract3.png"  width="550">
+</p>
+
 **Principal component analysis** (PCA), **non-negative matrix factorisation** (NMF), and **autoencoder neural networks** can then be employed to investigate the latent feature space, and identify physically significant microstructural properties.
 
+<p align="center">
+<img src="/files/Figure2_Decompositions.png"  width="550">
+</p>
 
 Microstructural analytics
 ------
