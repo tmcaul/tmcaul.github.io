@@ -14,18 +14,6 @@ Education
 * BA, MSci (1st class) in Natural Sciences, University of Cambridge, 2017
 * PhD in Quantitative Electron Microscopy, Imperial College London, 2020 (expected)
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
 Skills
 ======
 -**Python** - Experienced with NumPy, PyTorch, Multiprocessing, SKLearn, Matplotlib, SciPy packages etc. Two software packages (ebspy, crosspy) developed and released open-source.
