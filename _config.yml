@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Tom McAuliffe"
-  avatar           : "profile.png"
+  avatar           : "profile.jpeg"
   bio              : "I'm a scientist, Cambridge grad, and Imperial College PhD student, working on applying data science to metallic microstructure characterisation methods."
   location         : "London, UK"
   employer         :
