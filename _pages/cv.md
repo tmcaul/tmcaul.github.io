@@ -53,15 +53,11 @@ Portfolio
 ​
 **[AstroEBSD](https://github.com/benjaminbritton/AstroEBSD)** - Crystallograhic and structural analysis .
 - Orientation determination, signal clustering, and structure classification with template matching, built in MATLAB.
-​
 - Initially developed by the group for Hough transforms and geometrical analysis of diffraction data.
-
 - Recently updated to version 2.0 with my contributions: an open-source PCA pipeline for analysis of correlative, multimodal datasets, including Fourier cross-correlation of simulated templates for orientation and structure ID.
 ​
-**[crosspy](https://github.com/apexburgers/crosspy) - Fourier image registration and subset tracking in Python.
-
+**[crosspy](https://github.com/apexburgers/crosspy)** - Fourier image registration and subset tracking in Python.
 - Co-created and developed for loading, handling, and analysing digital images for displacement tracking.​
-
 - Fourier cross-correlation, displacement tracking, object-oriented data loading, and least-squares minimisation of a 2D polynomial basis for out-of-plane distortion correction.
 Calculation of strain tensor components from a spatial derivative.
 ​
