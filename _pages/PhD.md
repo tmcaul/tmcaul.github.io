@@ -8,10 +8,6 @@ author_profile: true
 
 {% include base_path %}
 
-PhD Highlights
-======
-
-
 Quantitative characterisation
 ------
 
