@@ -85,8 +85,8 @@ author:
   bio              : "I'm a scientist, Cambridge grad, and Imperial College PhD student, working on applying data science to metallic microstructure characterisation methods."
   location         : "London, UK"
   employer         :
-  pubmed           : ""
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : 
+  googlescholar    : 
   email            : "tmcauliffe@icloud.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
