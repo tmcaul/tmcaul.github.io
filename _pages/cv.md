@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* BA, MSci (1st class) in Natural Sciences, University of Cambridge, 2017
-* PhD in Quantitative Electron Microscopy, Imperial College London, 2020 (expected)
+- **BA, MSci** (1st class) in **Natural Sciences**, University of Cambridge, 2017
+- **PhD** in **Quantitative Electron Microscopy**, Imperial College London, 2020 (expected)
 
 Skills
 ======
