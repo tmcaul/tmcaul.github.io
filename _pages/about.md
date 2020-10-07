@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About me:"
-excerpt: "About me:"
+title: "About me"
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -14,7 +14,7 @@ This site (unashamedly) hosts my **CV**, **highlights** from my research, a reco
 
 $~$
 
-What I do:
+What I do
 ======
 - Understand **latent feature spaces** in messy, complicated, multimodal data.
 - **Classifying** for feature ID, or regressing for contextual metrics.
@@ -22,7 +22,7 @@ What I do:
 
 $~$
 
-How I do it:
+How I do it
 ======
 - Experienced with **Python** and **MATLAB** programming, and knowledge of **C++**.
 - Well versed in **data science and machine learning frameworks**: Numpy, PyTorch, SciKit-Learn, Multiprocessing, etc.
