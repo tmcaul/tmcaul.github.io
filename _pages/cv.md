@@ -46,12 +46,12 @@ Portfolio
   
 Achievements
 ======
-- Student Academic Choice Award Nominee, Imperial College: For undergraduate maths tutoring and supervision. (2018-2019)
+- **Imperial College Student Academic Choice Award Nominee** For undergraduate maths tutoring and supervision. (2018-2019)
 
-- Armourers & Brasiers’ Guild Prize, City of London: Funding awarded to present internationally on electron microscopy and applied data science. (2019)
+- **Armourers & Brasiers’ Guild Prize**: Funding awarded to present internationally on electron microscopy and applied data science. (2019)
 
-- Institute of Materials, Minerals & Mining Prize: Awarded to University of Cambridge undergraduate with the most impressive research project. (2017)
+- **Institute of Materials, Minerals & Mining Prize**: Awarded to University of Cambridge undergraduate with the most impressive research project. (2017)
 
-- Scholar of Jesus College, Cambridge: Elected as scholar of Jesus College for outstanding performance in Natural Sciences tripos. (2017)
+- **Scholar of Jesus College, Cambridge**: Elected as scholar of Jesus College for outstanding performance in Natural Sciences tripos. (2017)
 
-- CREST Gold Award & Nuffield Foundation ‘Best use of Maths’ Prize: Awarded by British Science Association for nanotube property Matlab modelling internship. (2012)
+- **CREST Gold Award** & **Nuffield Foundation ‘Best use of Maths’ Prize**: Awarded by British Science Association for nanotube property Matlab modelling internship. (2012)
