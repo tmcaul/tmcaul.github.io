@@ -1,15 +1,16 @@
 ---
-title: "Paper Title Number 1"
+title: "Advancing characterisation with statistics from correlative electron diffraction and X-ray spectroscopy, in the scanning electron microscope"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+permalink: https://arxiv.org/abs/1908.04084
+excerpt: 'Clustering and classification of hyperdimensional (and multimodal) electron microscopy datasets.'
+date: 2020-01-01
+venue: 'Ultramicroscopy
+paperurl: 'https://arxiv.org/abs/1908.04084'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+Clustering and classification of hyperdimensional (and multimodal) electron microscopy datasets.
+
+[Download paper here](https://arxiv.org/abs/1908.04084)
 
 Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
