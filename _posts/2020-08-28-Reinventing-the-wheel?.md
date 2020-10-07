@@ -1,5 +1,5 @@
 
-# ML & microscopy: reinventing the wheel?
+**ML & microscopy: reinventing the wheel?**
 
 In this piece we consider applying machine learning to a pretty niche field: electron backscatter diffraction. Does it add value? Is it hype? What questions are we better able to ask and answer using modern techniques? Here I don’t delve too much into the maths or physics, or rely too heavily on microscopy concepts — this is meant as a viewpoint on applying ML to a fairly mature domain.
 
