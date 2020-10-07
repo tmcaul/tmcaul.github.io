@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+My complete CV can be found [here](/files/cv.pdf).
+
 Education
 ------
 - **BA, MSci** (1st class) in **Natural Sciences**, University of Cambridge, 2017
