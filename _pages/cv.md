@@ -15,6 +15,7 @@ Education
 - **PhD** in **Quantitative Electron Microscopy**, Imperial College London, 2020 (expected)
 
 $~$
+
 Skills
 ======
 - **Python** - Experienced with NumPy, PyTorch, Multiprocessing, SKLearn, Matplotlib, SciPy packages etc. Two software packages (ebspy, crosspy) developed and released open-source.
@@ -34,6 +35,7 @@ Skills
 - **Communication & teaching** - I have successfully supervised Masters students, taught undergraduate classes, and disseminated research at conferences to foster collaboration.
 
 $~$
+
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -41,6 +43,7 @@ Publications
   {% endfor %}</ul>
 
 $~$
+
 Portfolio
 ======
 
@@ -70,6 +73,7 @@ Calculation of strain tensor components from a spatial derivative.
 - Random 'speckle pattern' generation, for image correlation - https://github.com/tmcaul/DICpatterns 
 
 $~$
+
 Achievements
 ======
 - **Imperial College Student Academic Choice Award Nominee** For undergraduate maths tutoring and supervision. (2018-2019)
