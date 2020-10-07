@@ -17,7 +17,10 @@ In my PhD, I have been particularly concerned with combining **crystallographic*
 ​
 In a combinatorial analysis, the **latent feature space represents physical phenomena of engineering interest**, such as nano-scale dispersed particles, chemical inhomogeneity, or local crystallographic ordering.
 
-ebsp img
+<p align="center">
+<img src="/files/ebsp.png"  width="200">
+</p>
+
 *An electron backscatter diffraction pattern -  unique to a given crystal structure and orientation*
 
 
