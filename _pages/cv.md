@@ -10,14 +10,13 @@ redirect_from:
 {% include base_path %}
 
 Education
-======
+------
 - **BA, MSci** (1st class) in **Natural Sciences**, University of Cambridge, 2017
 - **PhD** in **Quantitative Electron Microscopy**, Imperial College London, 2020 (expected)
 
-$~$
 
 Skills
-======
+------
 - **Python** - Experienced with NumPy, PyTorch, Multiprocessing, SKLearn, Matplotlib, SciPy packages etc. Two software packages (ebspy, crosspy) developed and released open-source.
 
 - **MATLAB** - Experienced with Machine Learning, Statistics, Parallel Computing toolboxes, etc. Five years’ experience. Major contributions and refactoring of AstroEBSD, a widely used software package.
@@ -34,18 +33,16 @@ Skills
 
 - **Communication & teaching** - I have successfully supervised Masters students, taught undergraduate classes, and disseminated research at conferences to foster collaboration.
 
-$~$
 
 Publications
-======
+------
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-$~$
 
 Portfolio
-======
+------
 
 **[ebspy](https://github.com/tmcaul/ebspy)** - Python analysis of electron diffraction data.
 - Created and developed for loading, handling, and cleaning microscopy data.​
