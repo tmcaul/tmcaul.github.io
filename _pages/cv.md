@@ -34,7 +34,7 @@ Skills
 - **Communication & teaching** - I have successfully supervised Masters students, taught undergraduate classes, and disseminated research at conferences to foster collaboration.
 
 
-Portfolio
+Open-source software
 ------
 
 **[ebspy](https://github.com/tmcaul/ebspy)** - Python analysis of electron diffraction data.
