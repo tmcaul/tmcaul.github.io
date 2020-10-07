@@ -12,13 +12,13 @@ This site (unashamedly) hosts my CV, highlights from my research, a record of my
 
 What I do:
 ======
-- Understand latent feature spaces in messy, complicated, multimodal data.
-- Classifying for feature ID, or regressing for contextual metrics.
-- Building machine learning models, for example in electron microscopy research.
+- Understand **latent feature spaces** in messy, complicated, multimodal data.
+- **Classifying** for feature ID, or regressing for contextual metrics.
+- Building **machine learning models**, for example in electron microscopy research.
 
 How I do it:
 ======
-- Experienced with Python and MATLAB programming, and knowledge of C++.
-- Well versed in data science and machine learning frameworks: Numpy, PyTorch, SciKit-Learn, Multiprocessing, etc.
-- Practiced in software engineering techniques, including git version control etc.
-- PhD experience in ML for electron microscopy: used to publishing papers and disseminating analyses.
+- Experienced with **Python** and **MATLAB** programming, and knowledge of **C++**.
+- Well versed in **data science and machine learning frameworks**: Numpy, PyTorch, SciKit-Learn, Multiprocessing, etc.
+- Practiced in **software engineering techniques**, including git version control etc.
+- PhD experience in **ML for electron microscopy**: used to publishing papers and disseminating analyses.
