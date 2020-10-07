@@ -7,7 +7,8 @@ author_profile: true
 
 **[Advancing characterisation with statistics from correlative electron diffraction and X-ray spectroscopy, in the scanning electron microscope,](https://arxiv.org/abs/1908.04084)** - **McAuliffe** *et al* - Ultramicroscopy, 2020
 Clustering and classification of hyperdimensional (and multimodal) electron microscopy datasets.
-​
+
+
 **[Spherical-angular dark field imaging and sensitive microstructural phase clustering with unsupervised machine learning,](https://arxiv.org/abs/2005.10581)** - **McAuliffe** *et al* - ArXiv, 2020 (under review)
 PCA, NMF, autoencoder neural network comparison for latent feature extraction in electron backscatter diffraction.
 
