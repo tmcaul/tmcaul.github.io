@@ -1,6 +1,6 @@
 ---
 title: "AstroEBSD"
-excerpt: "Crystallograhic and structural analysis. Available at https://github.com/benjaminbritton/AstroEBSD
+excerpt: "Crystallograhic and structural analysis. Available [here](https://github.com/benjaminbritton/AstroEBSD).
 
 - Orientation determination, signal clustering, and structure classification with template matching, built in MATLAB.​
 

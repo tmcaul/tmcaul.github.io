@@ -1,6 +1,6 @@
 ---
 title: "crosspy"
-excerpt: "Fourier image registration and subset tracking in Python. Available at https://github.com/apexburgers/crosspy.
+excerpt: "Fourier image registration and subset tracking in Python. Available [here](https://github.com/apexburgers/crosspy).
 
 - Co-created and developed for loading, handling, and analysing digital images for displacement tracking.​
 
