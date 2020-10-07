@@ -19,10 +19,10 @@ In a combinatorial analysis, the **latent feature space represents physical phen
 
 <p align="center">
 <img src="/files/ebsp.png"  width="350">
-
-*An electron backscatter diffraction pattern -  unique to a given crystal structure and orientation*
-
 </p>
+
+<div align="center">*An electron backscatter diffraction pattern -  unique to a given crystal structure and orientation*
+</div>
 
 
 Unsupervised learning
