@@ -32,12 +32,9 @@ We combine the electron backscatter patterns (EBSPs) and energy-dispersive X-ray
 ​
 The columns of the data matrix are then weighted according to whether we desire a structural (high EBSP variance) or chemical (EDS) driven analysis. [Read more...](https://arxiv.org/abs/1908.04084).
 
-<p align="center">
-<img src="/files/Fig1_Matrix_construction.png"  width="550">
-</p>
 
 <p align="center">
-<img src="/files/GraphicalAbstract3.png"  width="550">
+<img src="/files/GraphicalAbstract3.png"  width="700">
 </p>
 
 **Principal component analysis** (PCA), **non-negative matrix factorisation** (NMF), and **autoencoder neural networks** can then be employed to investigate the latent feature space, and identify physically significant microstructural properties.
@@ -58,7 +55,7 @@ Coupled structural and chemical analyses permit rapid, robust, and **intelligibl
 Furthermore, our unsupervised learning is sensitive enough to **separate extremely fine-grained detail** due to different levels of lattice ordering (highlighted regions below). This is incredibly important for high temperature strength in gas turbine engine materials. [Read more...](https://arxiv.org/abs/2005.10581).
 
 <p align="center">
-<img src="/files/combined_uml.png"  width="550">
+<img src="/files/combined_uml.png"  width="700">
 </p>
 
 And a few more highlights...
