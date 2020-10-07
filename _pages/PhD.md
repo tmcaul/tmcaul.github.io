@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "PhD Highlights"
+permalink: /phd/
 author_profile: true
 redirect_from:
   - /resume
