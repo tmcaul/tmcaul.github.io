@@ -14,6 +14,7 @@ Education
 - **BA, MSci** (1st class) in **Natural Sciences**, University of Cambridge, 2017
 - **PhD** in **Quantitative Electron Microscopy**, Imperial College London, 2020 (expected)
 
+$~$
 Skills
 ======
 - **Python** - Experienced with NumPy, PyTorch, Multiprocessing, SKLearn, Matplotlib, SciPy packages etc. Two software packages (ebspy, crosspy) developed and released open-source.
@@ -32,18 +33,43 @@ Skills
 
 - **Communication & teaching** - I have successfully supervised Masters students, taught undergraduate classes, and disseminated research at conferences to foster collaboration.
 
+$~$
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+$~$
 Portfolio
 ======
-  <ul>{% for post in site.portfolio %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+
+**[ebspy](https://github.com/tmcaul/ebspy)** - Python analysis of electron diffraction data.
+- Created and developed for loading, handling, and cleaning microscopy data.​
+- Provides normalisation, background correction, and ML / SKLearn pipelines for characterisation and dataset decomposition.
+​
+**[AstroEBSD](https://github.com/benjaminbritton/AstroEBSD)** - Crystallograhic and structural analysis .
+- Orientation determination, signal clustering, and structure classification with template matching, built in MATLAB.
+​
+- Initially developed by the group for Hough transforms and geometrical analysis of diffraction data.
+
+- Recently updated to version 2.0 with my contributions: an open-source PCA pipeline for analysis of correlative, multimodal datasets, including Fourier cross-correlation of simulated templates for orientation and structure ID.
+​
+**[crosspy](https://github.com/apexburgers/crosspy) - Fourier image registration and subset tracking in Python.
+
+- Co-created and developed for loading, handling, and analysing digital images for displacement tracking.​
+
+- Fourier cross-correlation, displacement tracking, object-oriented data loading, and least-squares minimisation of a 2D polynomial basis for out-of-plane distortion correction.
+Calculation of strain tensor components from a spatial derivative.
+​
+**More code snippets / side projects**:
+- C++ implementation of Fourier cross-correlation - https://github.com/tmcaul/Fourier_XCF_speedup
+
+- Spherical-angular dark field imaging (see paper!) - https://github.com/tmcaul/SphericalAngularDF 
+
+- Random 'speckle pattern' generation, for image correlation - https://github.com/tmcaul/DICpatterns 
+
+$~$
 Achievements
 ======
 - **Imperial College Student Academic Choice Award Nominee** For undergraduate maths tutoring and supervision. (2018-2019)
