@@ -34,13 +34,6 @@ Skills
 - **Communication & teaching** - I have successfully supervised Masters students, taught undergraduate classes, and disseminated research at conferences to foster collaboration.
 
 
-Publications
-------
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-
 Portfolio
 ------
 
