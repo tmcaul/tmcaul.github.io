@@ -51,8 +51,15 @@ Microstructural analytics
 
 Coupled structural and chemical analyses permit rapid, robust, and **intelligible fingerprints** of thermo-mechanically important microstructural constituents. Here we show crystal structure (phase), inverse pole figure (in the Z-out of plane direction), and local chemistry. [Read more...](https://arxiv.org/abs/2009.00948).
 
+<p align="center">
+<img src="/files/Alloys_combined.png"  width="550">
+</p>
+
 Furthermore, our unsupervised learning is sensitive enough to **separate extremely fine-grained detail** due to different levels of lattice ordering (highlighted regions below). This is incredibly important for high temperature strength in gas turbine engine materials. [Read more...](https://arxiv.org/abs/2005.10581).
 
+<p align="center">
+<img src="/files/combined_uml.png"  width="550">
+</p>
 
 And a few more highlights...
 ------
