@@ -40,7 +40,7 @@ The columns of the data matrix are then weighted according to whether we desire 
 **Principal component analysis** (PCA), **non-negative matrix factorisation** (NMF), and **autoencoder neural networks** can then be employed to investigate the latent feature space, and identify physically significant microstructural properties.
 
 <p align="center">
-<img src="/files/Figure2_Decompositions.png"  width="550">
+<img src="/files/Figure2_Decompositions.png"  width="700">
 </p>
 
 Microstructural analytics
@@ -49,7 +49,7 @@ Microstructural analytics
 Coupled structural and chemical analyses permit rapid, robust, and **intelligible fingerprints** of thermo-mechanically important microstructural constituents. Here we show crystal structure (phase), inverse pole figure (in the Z-out of plane direction), and local chemistry. [Read more...](https://arxiv.org/abs/2009.00948).
 
 <p align="center">
-<img src="/files/Alloys_combined.png"  width="550">
+<img src="/files/Alloys_combined.png"  width="700">
 </p>
 
 Furthermore, our unsupervised learning is sensitive enough to **separate extremely fine-grained detail** due to different levels of lattice ordering (highlighted regions below). This is incredibly important for high temperature strength in gas turbine engine materials. [Read more...](https://arxiv.org/abs/2005.10581).
@@ -63,10 +63,24 @@ And a few more highlights...
 
 I've developed A MATLAB package for **spherical-angular dark field imaging**, in which images are re-projected onto a diffraction sphere and crystallographically relevant features can be correctly integrated.
 
+<p align="center">
+<img src="/files/Fig3_SphericalIndexing2.png"  width="700">
+</p>
+
 I've implemented a **normalisation procedure** for cross-correlation peak heights, in order to determine their **likelihood** based on a fitted lognormal distribution. This permits discarding of poor quality matches, as if the likelihood is too low there is a reasonable probability that the cross-correlation peak height may as well have been sampled randomly. Different structures (space groups) are presented in different colours in (a), and projected onto a standard normal in (b):
+
+<p align="center">
+<img src="/files/pdfs_fig.png"  width="550">
+</p>
 
 For inference of accurate EBSP and sample geometry, I've developed a **gradient descent refinement procedure** based on the cross-correlation peak height to a simulated library. This permits knowledge of important re-projection parameters to a high degree of accuracy.
 
+<p align="center">
+<img src="/files/algo.png"  width="700">
+</p>
+
 The below figure plots cross-correlation peak height through the refined template matching (RTM) procedure against refinement iteration step for 5˚ misorientation (a), and average of 100 tests for five initial misorientaitons (5˚ up to 15˚), (b):
 
-
+<p align="center">
+<img src="/files/Refinement.png"  width="700">
+</p>
