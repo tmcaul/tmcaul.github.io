@@ -12,7 +12,7 @@ I'm a **scientist**, **Cambridge grad**, and **Imperial College PhD student**, w
 
 This site (unashamedly) hosts my **CV**, **highlights** from my research, a record of my **publications**, and a **blog** including demo workflows and things I find interesting.
 
-<br/><br/>
+&newline
 
 What I do:
 ======
@@ -20,7 +20,7 @@ What I do:
 - **Classifying** for feature ID, or regressing for contextual metrics.
 - Building **machine learning models**, for example in electron microscopy research.
 
-<br/><br/>
+&newline
 
 How I do it:
 ======
