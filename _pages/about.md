@@ -12,11 +12,13 @@ I'm a **scientist**, **Cambridge grad**, and **Imperial College PhD student**, w
 
 This site (unashamedly) hosts my **CV**, **highlights** from my research, a record of my **publications**, and a **blog** including demo workflows and things I find interesting.
 
+
 What I do:
 ======
 - Understand **latent feature spaces** in messy, complicated, multimodal data.
 - **Classifying** for feature ID, or regressing for contextual metrics.
 - Building **machine learning models**, for example in electron microscopy research.
+
 
 How I do it:
 ======
