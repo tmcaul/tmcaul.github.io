@@ -9,6 +9,7 @@ excerpt: "Fourier image registration and subset tracking in Python. Available [h
 - Calculation of strain tensor components from a spatial derivative."
 
 collection: portfolio
+date: 2020-05-05
 ---
 
 
