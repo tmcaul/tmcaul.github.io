@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This site (unashamedly) hosts my CV, highlights from my research, a record of my publications, and a blog including demo workflows and things I find interesting.
+This site (unashamedly) hosts my **CV**, **highlights** from my research, a record of my **publications**, and a **blog** including demo workflows and things I find interesting.
 
 What I do:
 ======
