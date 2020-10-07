@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-UK"
-title                    : "Data Scientist"
+title                    : "Tom McAuliffe"
 title_separator          : "-"
 name                     : &name "Tom McAuliffe"
-description              : &description "I'm a scientist, Cambridge grad, and Imperial College PhD student, working on applying data science to metallic microstructure characterisation methods."
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "Data scientist"
+url                      : https://tmcaul.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "tmcaul/tmcaul.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Tom McAuliffe"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "I'm a scientist, Cambridge grad, and Imperial College PhD student, working on applying data science to metallic microstructure characterisation methods."
+  location         : "London, UK"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : ""
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "tmcauliffe@icloud.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "tmcaul"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/tom-mcauliffe-99a006115/"
+  orcid            : "https://orcid.org/0000-0003-3345-9304"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "@tmcaulf"
   vine             :
   weibo            :
   xing             :
