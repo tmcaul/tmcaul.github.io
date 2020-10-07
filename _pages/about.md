@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+I'm a **scientist**, **Cambridge grad**, and **Imperial College PhD student**, working on applying data science to microstructural characterisation methods.
+
 This site (unashamedly) hosts my **CV**, **highlights** from my research, a record of my **publications**, and a **blog** including demo workflows and things I find interesting.
 
 What I do:
