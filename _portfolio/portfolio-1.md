@@ -6,6 +6,7 @@ excerpt: "Python analysis of electron diffraction data. Available at: https://gi
 
 - Provides normalisation, background correction, and ML / SKLearn pipelines for characterisation and dataset decomposition.
 "
+permalink:"http://github.com/tmcaul/ebspy"
 collection: portfolio
 ---
 
