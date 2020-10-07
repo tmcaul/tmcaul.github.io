@@ -1,6 +1,6 @@
 ---
 title: "ebspy"
-excerpt: "Python analysis of electron diffraction data. Available at: [https://github.com/tmcaul/ebspy"](https://github.com/tmcaul/ebspy")
+excerpt: "Python analysis of electron diffraction data. Available at: https://github.com/tmcaul/ebspy"
 collection: portfolio
 ---
 
