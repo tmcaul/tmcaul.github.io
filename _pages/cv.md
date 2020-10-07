@@ -70,7 +70,7 @@ Calculation of strain tensor components from a spatial derivative.
 
 
 Achievements
-======
+------
 - **Imperial College Student Academic Choice Award Nominee** For undergraduate maths tutoring and supervision. (2018-2019)
 
 - **Armourers & Brasiers’ Guild Prize**: Funding awarded to present internationally on electron microscopy and applied data science. (2019)
