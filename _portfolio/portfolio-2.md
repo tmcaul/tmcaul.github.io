@@ -8,7 +8,7 @@ excerpt: "Crystallograhic and structural analysis. Available [here](https://gith
 
 - Recently updated to version 2.0 with my contributions: an open-source PCA pipeline for analysis of correlative, multimodal datasets, including Fourier cross-correlation of simulated templates for orientation and structure ID."
 collection: portfolio
-date: 2020-01-01
+date: 2020-10-08
 
 ---
 
