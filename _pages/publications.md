@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+{% include base_path %}
+
 **[Advancing characterisation with statistics from correlative electron diffraction and X-ray spectroscopy, in the scanning electron microscope,](https://arxiv.org/abs/1908.04084)** - **McAuliffe** *et al* - Ultramicroscopy, 2020.  
 Clustering and classification of hyperdimensional (and multimodal) electron microscopy datasets.
 
