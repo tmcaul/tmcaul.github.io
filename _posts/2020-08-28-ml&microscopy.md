@@ -4,7 +4,7 @@ date: 2020-08-21
 tags:
 ---
 
-In this piece we consider applying machine learning to a pretty niche field: electron backscatter diffraction. Does it add value? Is it hype? What questions are we better able to ask and answer using modern techniques? Here I don’t delve too much into the maths or physics, or rely too heavily on microscopy concepts — this is meant as a viewpoint on applying ML to a fairly mature domain.
+In this piece we consider applying machine learning to a pretty niche field: electron backscatter diffraction. Does it add value? Is it hype? What questions are we better able to ask and answer using modern techniques? Here I don’t delve too much into the maths or physics, or rely too heavily on microscopy concepts — this is meant as a viewpoint on applying ML to a fairly mature domain. This post is also available [here](https://medium.com/@tmcauliffe/ml-microscopy-reinventing-the-wheel-a6702f406f92).
 
 We are probably in a bubble. AI is seeing pretty excessive use in basically every scientific field. Some of it is hype. Some of it is new, genuine insight that wouldn’t have been possible without modern machine learning techniques.
 
