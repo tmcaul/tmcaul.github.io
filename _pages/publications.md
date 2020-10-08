@@ -25,21 +25,17 @@ Combination of multimodal data for material analysis.
 Measurement of crystal lattice stress and strain tensors over a highly resolved spatial domain.
 
 
-**[Quantitative precipitate classification and grain boundary property control in Co/Ni-base superalloys,](https://arxiv.org/abs/2009.00948)** - **McAuliffe** *et al* - ArXiv, 2020 (under review).
- 
-Applying unsupervised ML to understand and improve aersoapce materials' high temperature capability.
+**[Quantitative precipitate classification and grain boundary property control in Co/Ni-base superalloys,](https://arxiv.org/abs/2009.00948)** - **McAuliffe** *et al* - ArXiv, 2020 (under review).  
+ Applying unsupervised ML to understand and improve aersoapce materials' high temperature capability.
 
 
-**[Effect of high temperature service on the complex through-wall microstructure of centrifugally cast HP40 reformer tube,](https://arxiv.org/abs/2008.07429)** - Dessolier, **McAuliffe**, *et al* - ArXiv, 2020 (under review).
-
+**[Effect of high temperature service on the complex through-wall microstructure of centrifugally cast HP40 reformer tube,](https://arxiv.org/abs/2008.07429)** - Dessolier, **McAuliffe**, *et al* - ArXiv, 2020 (under review).  
 Applying unsupervised ML to understand and improve oil&gas engineering systems.
 
 
-**[On the prediction and the formation of the sigma phase in CrMnCoFeNix high entropy alloys,](https://www.sciencedirect.com/science/article/pii/S0925838818329062?casa_token=UlystsvnrRcAAAAA:whA-ISZdxBv6p-UKRLDhxkNo2JuDJYI5KF264HsllLNLQbXmAqoZ71atcNwBGXYJly1Alu6Y)** - Christofidou, **McAuliffe**, *et al* - Journal of Alloys & Compounds, 2018.
-
+**[On the prediction and the formation of the sigma phase in CrMnCoFeNix high entropy alloys,](https://www.sciencedirect.com/science/article/pii/S0925838818329062?casa_token=UlystsvnrRcAAAAA:whA-ISZdxBv6p-UKRLDhxkNo2JuDJYI5KF264HsllLNLQbXmAqoZ71atcNwBGXYJly1Alu6Y)** - Christofidou, **McAuliffe**, *et al* - Journal of Alloys & Compounds, 2018.  
 Measurement and modelling of modern aerospace alloys.
 
 
-**[Interface characteristics in an alpha + beta titanium alloy,](https://arxiv.org/abs/1805.09882)** - Ackerman *et al* - Physical Review Materials, 2020.
-
+**[Interface characteristics in an alpha + beta titanium alloy,](https://arxiv.org/abs/1805.09882)** - Ackerman *et al* - Physical Review Materials, 2020.  
 Measurement and modelling of atomic coherence.
