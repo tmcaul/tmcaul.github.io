@@ -136,9 +136,9 @@ And that’s all you need to get started. At the end of this article we will dis
 
 ## **Step 3: Check the outputs.**
 
-Once the code has run, and it will take significantly longer if you ran with RTM, results are saved where you specified in **InputUser.SavingFolder**. There will be a folder with a descriptive name, for example: **PCA_Output/SuperalloyExample_EBSD+EDS/weighting1_vt0,1_Guo_rad3**. A folder with your sample name and **_EBSD+EDS **is created, then another folder with your settings is generated within. ‘Guo’ refers to the spatial kernel [3], and ‘vt’ refers to the variance tolerance limit (more on these in the Medium level settings description later). If you ran the code with more than one sample, weighting, *etc* then the results will be saved seperately.
+Once the code has run, and it will take significantly longer if you ran with RTM, results are saved where you specified in **InputUser.SavingFolder**. There will be a folder with a descriptive name, for example: **PCA_Output/SuperalloyExample_EBSD+EDS/weighting1_vt0,1_Guo_rad3**. A folder with your sample name and **_EBSD+EDS** is created, then another folder with your settings is generated within. ‘Guo’ refers to the spatial kernel [3], and ‘vt’ refers to the variance tolerance limit (more on these in the Medium level settings description later). If you ran the code with more than one sample, weighting, *etc* then the results will be saved seperately.
 
-Within this folder you’ll have a *Results.mat *file, containing the outputs. Also printed as *.png* files will be the Bruker-exported Radon peak height (image quality) map and the SEM image. You’ll also have a rotated characteristic component (RCC) assignment map, shown below in **Figure 4**. As discussed in our paper, RCCs are VARIMAX rotated principal components.
+Within this folder you’ll have a *Results.mat* file, containing the outputs. Also printed as *.png* files will be the Bruker-exported Radon peak height (image quality) map and the SEM image. You’ll also have a rotated characteristic component (RCC) assignment map, shown below in **Figure 4**. As discussed in our paper, RCCs are VARIMAX rotated principal components.
 
 ![Figure 4: Rotated characteristic component assignment map for the SuperalloyExample.h5 dataset. It shows the regions of the dataset (split into tiles) that have been identified as sufficiently dissimilar to warrant a new component.](https://cdn-images-1.medium.com/max/2000/1*vLASwf0jboTUZbAYiqhagQ.png)*Figure 4: Rotated characteristic component assignment map for the SuperalloyExample.h5 dataset. It shows the regions of the dataset (split into tiles) that have been identified as sufficiently dissimilar to warrant a new component.*
 
@@ -258,3 +258,10 @@ These only have to be adjusted fairly infrequently. Of particular note are:
 **RTM_setup.Sampling_Freq** is the SO3 angular spacing of template EBSPs. Increase this to save memory and processing time, but 7 or 8˚ is standard.
 
 There are also settings for the spatial kernel function that can be toggled on/off in the critical settings. This includes a label to append to the directory name and an inline function describing how to calculate the kernel. A Gaussian kernel after Guo *et al *[3] is included by default. You can check the kernel weightings by running the GenerateKernel function.
+
+    PCA_Setup.KernelFnLabel='Guo'; %for labelling
+    PCA_Setup.KernelFunction = @(distance,r) ((1 - (distance)./r).^2).^2;
+
+    %check with k=GenerateKernel(PCA_Setup.KernelFunction,PCA_Setup.KernelRadius);
+
+Finally, the lowest level includes *AstroEBSD* background corrections as required. Most of these you can leave as-is, but there are options in there for hot pixel correction, square cropping, mean-centring, and many others which users may want to adjust.
