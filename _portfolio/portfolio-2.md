@@ -146,17 +146,17 @@ This may look a bit messy, but in this case we have oversampled the dataset with
 
 [RTM] If you ran RTM, the phase map and Euler angles will also be calculated. The phase index and colouring corresponds to the position in the list **InputUser.Phases**. The phase map is presented here in **Figure 5**, the quality metric (cross-correlation peak height) in **Figure 6**, and a map of the first Euler angle in **Figure 7**.
 
-![Figure 5: RTM phase assignment map.](https://cdn-images-1.medium.com/max/2000/1*0ZnFdH1fmPfsRGAt0LKFLQ.png)*Figure 5: RTM phase assignment map.*
+![Figure 5: RTM phase assignment map.](https://cdn-images-1.medium.com/max/2000/1*0ZnFdH1fmPfsRGAt0LKFLQ.png)*Figure 5: RTM phase assignment map. This classifies each scan point into one of the provided classes, each corresponding to a unique crystal phase.*
 
-![Figure 6: RTM quality (cross-correlation function peak height) map.](https://cdn-images-1.medium.com/max/2000/1*4XASR8Y3r92tV6g3gOzuTg.png)*Figure 6: RTM quality (cross-correlation function peak height) map.*
+![Figure 6: RTM quality (cross-correlation function peak height) map.](https://cdn-images-1.medium.com/max/2000/1*4XASR8Y3r92tV6g3gOzuTg.png)*Figure 6: RTM quality (cross-correlation function peak height) map. This tells us how good the template match between RCC and 'best' template was.*
 
-![Figure 7: Euler 1 map (ZXZ).](https://cdn-images-1.medium.com/max/2000/1*QyBLn67oe_N8lxz-AuhFIg.png)*Figure 7: Euler 1 map (ZXZ).*
+![Figure 7: Euler 1 map (ZXZ).](https://cdn-images-1.medium.com/max/2000/1*QyBLn67oe_N8lxz-AuhFIg.png)*Figure 7: Euler 1 map (ZXZ). This tells us the orientation of the crystal at each scan point, averaged across the RCC clustered region.*
 
 [/RTM]
 
 If you’d like details on how each scan point was influenced by each of the RCCs, take a look in the corresponding tiles’ folders. This contains *.png* images of each of the factors (here the 6th of the first tile).
 
-![Figure 8: 6th RCC of the first tile, for the SuperalloyExample dataset.](https://cdn-images-1.medium.com/max/2092/1*Yx3LbI4Q1YK3JOGzQqcs8g.png)*Figure 8: 6th RCC of the first tile, for the SuperalloyExample dataset.*
+![Figure 8: 6th RCC of the first tile, for the SuperalloyExample dataset.](https://cdn-images-1.medium.com/max/2092/1*Yx3LbI4Q1YK3JOGzQqcs8g.png)*Figure 8: 6th RCC of the first tile, for the SuperalloyExample dataset. This qualitatively shows the corresponding (reshaped) EBSP info and the chemical spectrum.*
 
 All of this information is also contained numerically in Results.mat, for you to analyse, plot, and use however you’d like. That’s it for the non-RTM stuff. To go ahead with **Step 4** and beyond, you’ll need this functionality working and set up.
 
@@ -193,7 +193,7 @@ Using the correlated structure / chemistry features in the RCCs, extracted using
 
 You may have noticed that in a PCA run’s results folder are two sub-directories: AverageSpectra and RCSpectra. Our analysis prints the inferred RCSpectra to a specific file format, *.spx*, that can be re-read into Bruker Esprit. We use this to chemically quantify the spectra in a pretty standard way. We do this for both RCC averages (AverageSpectra) and the RCCs themselves (RCSpectra).
 
-![Figure 10: Format of results.xlsx.](https://cdn-images-1.medium.com/max/2000/1*JhLxRtJL9-bZZuORmE2ljw.png)*Figure 10: Format of results.xlsx.*
+![Figure 10: Format of results.xlsx.](https://cdn-images-1.medium.com/max/2000/1*JhLxRtJL9-bZZuORmE2ljw.png)*Figure 10: Format of results.xlsx. The rows correspond to the different RC-spectra outputted by our algorithm, and the columns are the chemical elements we wish to quantify.*
 
 We then export the at.% quantification to **results.xlsx**, presented in **Figure 10**. You could use any other way of generating such a quantification table, so long as it keeps the format above, is called **results.xlsx**, and is placed into the AverageSpectra / RCSpectra folder.
 
@@ -219,11 +219,11 @@ If you just want to plot IPF maps, you can leave **post.EBSD **on and turn all t
 
 Run the code and you’ll get IPF maps (*e.g.* **Figure 11**), bar charts of chemistries (**Figure 12**) and radar plots of chemistries vs structure (**Figure 13**).
 
-![Figure 11: IPFZ for the SuperalloyExample dataset.](https://cdn-images-1.medium.com/max/2000/1*105HX9br5dBJq3ZIQDvV2g.png)*Figure 11: IPFZ for the SuperalloyExample dataset.*
+![Figure 11: IPFZ for the SuperalloyExample dataset.](https://cdn-images-1.medium.com/max/2000/1*105HX9br5dBJq3ZIQDvV2g.png)*Figure 11: IPFZ for the SuperalloyExample dataset. This tells us the crystallographic orientation with respect to a reference direction. A standard FCC colour key (not shown for brevity) helps us identify the lattice that correspond to the out-of-plane direction.*
 
-![Figure 12: Bar charts of chemistry by phase for the SuperalloyExample dataset.](https://cdn-images-1.medium.com/max/2318/1*mgTTqMd_eX4NruX-2gCfbg.png)*Figure 12: Bar charts of chemistry by phase for the SuperalloyExample dataset.*
+![Figure 12: Bar charts of chemistry by phase for the SuperalloyExample dataset.](https://cdn-images-1.medium.com/max/2318/1*mgTTqMd_eX4NruX-2gCfbg.png)*Figure 12: Bar charts of chemistry by phase for the SuperalloyExample dataset. Standard error bars are included to show uncertainty.*
 
-![Figure 13: Radar plots of chemistry by phase for the SuperalloyExample dataset.](https://cdn-images-1.medium.com/max/2000/1*-iU9HagcU-nwUk51LVrQuA.png)*Figure 13: Radar plots of chemistry by phase for the SuperalloyExample dataset.*
+![Figure 13: Radar plots of chemistry by phase for the SuperalloyExample dataset.](https://cdn-images-1.medium.com/max/2000/1*-iU9HagcU-nwUk51LVrQuA.png)*Figure 13: Radar plots of chemistry by phase for the SuperalloyExample dataset. This shows the same information as Figure 12. *
 
 So that’s a run through of some capabilities of AstroEBSD for quantitative microstructural analysis. Most of the work presented in this article was conducted as part of my (Tom McAuliffe’s) PhD, written up in [1]. The RTM approach was developed as part of Alex Foden’s PhD, and is written up in [2].
 
