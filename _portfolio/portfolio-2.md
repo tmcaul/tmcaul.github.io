@@ -223,7 +223,7 @@ Run the code and you’ll get IPF maps (*e.g.* **Figure 11**), bar charts of che
 
 ![Figure 12: Bar charts of chemistry by phase for the SuperalloyExample dataset.](https://cdn-images-1.medium.com/max/2318/1*mgTTqMd_eX4NruX-2gCfbg.png)*Figure 12: Bar charts of chemistry by phase for the SuperalloyExample dataset. Standard error bars are included to show uncertainty.*
 
-![Figure 13: Radar plots of chemistry by phase for the SuperalloyExample dataset.](https://cdn-images-1.medium.com/max/2000/1*-iU9HagcU-nwUk51LVrQuA.png)*Figure 13: Radar plots of chemistry by phase for the SuperalloyExample dataset. This shows the same information as Figure 12. *
+![Figure 13: Radar plots of chemistry by phase for the SuperalloyExample dataset.](https://cdn-images-1.medium.com/max/2000/1*-iU9HagcU-nwUk51LVrQuA.png)*Figure 13: Radar plots of chemistry by phase for the SuperalloyExample dataset. This shows the same information as Figure 12.*
 
 So that’s a run through of some capabilities of AstroEBSD for quantitative microstructural analysis. Most of the work presented in this article was conducted as part of my (Tom McAuliffe’s) PhD, written up in [1]. The RTM approach was developed as part of Alex Foden’s PhD, and is written up in [2].
 
