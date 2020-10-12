@@ -86,7 +86,7 @@ author:
   location         : "London, UK"
   employer         :
   pubmed           : 
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?user=6_k8YhgAAAAJ&hl=en&oi=ao"
   email            : "tmcauliffe@icloud.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
