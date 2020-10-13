@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-I'm a scientist, Cambridge grad, and Imperial College PhD student, with a PhD in applying data science to microstructural characterisation methods.
+I'm a scientist and Cambridge grad, currently finishing up my PhD at Imperial College London.
 
 This site (unashamedly) hosts my **CV**, **highlights** from my research, a record of my **publications**, and a **blog** including demo workflows and things I find interesting.
 
