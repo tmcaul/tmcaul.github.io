@@ -56,11 +56,11 @@ Calculation of strain tensor components from a spatial derivative.
 
 
 **More code snippets / side projects**:
-- C++ implementation of Fourier cross-correlation - https://github.com/tmcaul/Fourier_XCF_speedup
+- [C++ implementation of Fourier cross-correlation](https://github.com/tmcaul/Fourier_XCF_speedup)
 
-- Spherical-angular dark field imaging (see paper!) - https://github.com/tmcaul/SphericalAngularDF 
+- [Spherical-angular dark field imaging (see paper!)](https://github.com/tmcaul/SphericalAngularDF)
 
-- Random 'speckle pattern' generation, for image correlation - https://github.com/tmcaul/DICpatterns 
+- [Random 'speckle pattern' generation, for image correlation](https://github.com/tmcaul/DICpatterns)
 
 
 Achievements
