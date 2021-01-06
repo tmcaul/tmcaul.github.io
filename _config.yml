@@ -7,8 +7,8 @@
 
 # Site Settings
 locale                   : "en-UK"
-title                    : "Tom McAuliffe"
-title_separator          : "-"
+title                    : "Dr"
+title_separator          : " "
 name                     : &name "Tom McAuliffe"
 description              : &description "Data scientist"
 url                      : https://tmcaul.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Tom McAuliffe"
+  name             : "Dr Tom McAuliffe"
   avatar           : "IMG_4270.jpg"
   bio              : "Data scientist; PhD in looking at very small things."
   location         : "London, UK"
