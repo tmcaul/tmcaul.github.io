@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-UK"
-title                    : "Dr"
+title                    : "Dr Tom McAuliffe"
 title_separator          : " "
-name                     : &name "Tom McAuliffe"
+name                     : &name "Dr Tom McAuliffe"
 description              : &description "Data scientist"
 url                      : https://tmcaul.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
