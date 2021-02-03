@@ -10,9 +10,9 @@ redirect_from:
 
 {% include base_path %}
 
-I'm a scientist and Cambridge grad, currently finishing up my PhD at Imperial College London.
+I'm a scientist: Cambridge Natural Sciences BA/MSci, and PhD from Imperial College London in ML for electron microscopy. I'm currently working at a fintech startup looking at time-series classification and encoding, using various flavours of neural network.
 
-This site (unashamedly) hosts my **CV**, **highlights** from my research, a record of my **publications**, and a **blog** including demo workflows and things I find interesting.
+This site hosts my **CV**, a record of my **publications**, and a **blog** including demo workflows and things I find interesting.
 
 
 What I do
