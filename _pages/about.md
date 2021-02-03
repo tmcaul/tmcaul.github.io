@@ -10,7 +10,9 @@ redirect_from:
 
 {% include base_path %}
 
-I'm a scientist: Cambridge BA/MSci, Imperial College London PhD. My research focusses on using ML and deep learning to better understand (and find useful representations of) real, noisy data. I'm currently working at a fintech startup looking at time-series classification and encoding, using various flavours of neural network.
+I'm a scientist: Cambridge BA/MSci, Imperial College London PhD. My research focusses on using ML and deep learning to better understand (and find useful representations of) real, noisy data. 
+
+I'm currently working at a fintech startup looking at time-series classification and encoding, using various flavours of neural network.
 
 This site hosts my **CV**, a record of my **publications**, and a **blog** including demo workflows and things I find interesting.
 
