@@ -30,3 +30,10 @@ How I do it
 - Well versed in **data science and machine learning frameworks**: Numpy, PyTorch, SciKit-Learn, Multiprocessing, etc.
 - Practiced in **software engineering techniques**, including git version control, Linux/UNIX development, etc.
 - PhD experience in **ML for electron microscopy**: used to publishing papers and disseminating analyses.
+
+Blog
+------
+Check out my most recent blog post here: 
+[Training a ground-up MLP in native Julia (yes, on MNIST)](https://tmcauliffe.medium.com/training-a-ground-up-mlp-in-native-julia-yes-on-mnist-c2f84aaca2f5).
+
+
