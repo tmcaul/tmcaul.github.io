@@ -10,6 +10,6 @@ excerpt: "Backpropagation and image recognition from the ground up in pure Julia
 "
 
 collection: portfolio
-date: 2020-02-27
+date: 2021-02-27
 ---
 
