@@ -56,6 +56,8 @@ Calculation of strain tensor components from a spatial derivative.
 
 
 **More code snippets / side projects**:
+- [Backpropagation and multilayer perceptron in pure Julia](http://tmcauliffe.com/julia/)
+
 - [C++ implementation of Fourier cross-correlation](https://github.com/tmcaul/Fourier_XCF_speedup)
 
 - [Spherical-angular dark field imaging (see paper!)](https://github.com/tmcaul/SphericalAngularDF)
