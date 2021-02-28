@@ -2,7 +2,7 @@
 title: "mercury"
 excerpt: "Backpropagation and image recognition from the ground up in pure Julia.
 
-- Accompanies blog post http://tmcauliffe.com/julia/
+- Accompanies blog post [here](http://tmcauliffe.com/julia/)
 
 - Demonstrates simplicity of Julian programming using dynamic dispatch, composite data types, etc.
 
